@@ -1,4 +1,5 @@
-# This is the readme file to say how the scrip works.
+This is the readme file to say how the scrip works.
+
 For the first part, the script reads in the train and test data, merge them using merge function with parameters that like outer join,
 joining all data from train and test data. 
 
