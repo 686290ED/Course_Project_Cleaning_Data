@@ -19,7 +19,7 @@ Add activity and subject as new variables to mean_std_data using mutate function
 the data to mean_std_data_2. 
 
 For the fourth part, using gsub function to globally replace string.
-"t" for time and "f" for frequency appear at the start of the string, using ^ to restrict. 
+"t" for time and "f" for frequency appear at the start of the string, using "^" to restrict. 
 Firstly run appears ..., add a line to replace ".". 
 
 For the fifth part, using reshape2 package to summarize. 
